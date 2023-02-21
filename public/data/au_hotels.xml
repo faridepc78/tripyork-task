@@ -1,0 +1,1603 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotels>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>BS</CountryCode>
+    <CountryFileName>Bahamas</CountryFileName>
+    <CountryName>The Bahamas</CountryName>
+    <CurrencyCode>BSD</CurrencyCode>
+    <Facilities>40|51|52|53|56|202|210|211|242|253|298|299</Facilities>
+    <HotelAddress>Pelican Shores Road</HotelAddress>
+    <HotelFileName>Pelican_Beach_Villas</HotelFileName>
+    <HotelID>1040890</HotelID>
+    <HotelName>Pelican Beach Villas</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>286949691</ImageID>
+    <Images>286949691|286949651|286949652|286949653|286949654|286949655|286949656|286949657|286949658|286949659|286949660|286949661|286949662|286949663|286949664|286949665|286949666|286949667|286949668|286949669|286949670|286949671|286949672|286949673|286949674|286949675|286949676|286949677|286949678|286949679|286949680|286949681|286949682|286949683|286949684|286949685|286949686|286949687|286949688|286949689|286949690|286949692|286949693|286949694|286949695|286949696|286949697|286949698</Images>
+    <Latitude>26.550820000000</Latitude>
+    <Longitude>-77.057928000000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Marsh_Harbour</PlaceFileName>
+    <PlaceID>16150</PlaceID>
+    <PlaceName>Marsh Harbour</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>272694</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>20</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>10</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>BS</CountryCode>
+    <CountryFileName>Bahamas</CountryFileName>
+    <CountryName>The Bahamas</CountryName>
+    <CurrencyCode>BSD</CurrencyCode>
+    <Facilities>7|13|21|34|40|41|51|53|56|59|202|222|242|253|281|299</Facilities>
+    <HotelAddress>Green Turtle Cay</HotelAddress>
+    <HotelFileName>Bluff_House_Beach_Resort_Marina</HotelFileName>
+    <HotelID>1040891</HotelID>
+    <HotelName>Bluff House Beach Resort &amp; Marina</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>286048158</ImageID>
+    <Images>286048158|286048129|286048130|286048131|286048132|286048133|286048134|286048135|286048136|286048137|286048138|286048139|286048140|286048141|286048142|286048143|286048144|286048145|286048146|286048147|286048148|286048149|286048150|286048151|286048152|286048153|286048154|286048155|286048156|286048157|286048159|286048160</Images>
+    <Latitude>26.776605600000</Latitude>
+    <Longitude>-77.339937300000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Green_Turtle_Cay</PlaceFileName>
+    <PlaceID>249026</PlaceID>
+    <PlaceName>Green Turtle Cay</PlaceName>
+    <PlaceType>Island</PlaceType>
+    <Popularity>243457</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>7</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>BS</CountryCode>
+    <CountryFileName>Bahamas</CountryFileName>
+    <CountryName>The Bahamas</CountryName>
+    <CurrencyCode>BSD</CurrencyCode>
+    <Facilities>4|5|7|9|20|23|59|62|64|66|74|96|100|122|193|202|210|211|225|256</Facilities>
+    <HotelAddress>Bay Street. Marsh Harbour</HotelAddress>
+    <HotelFileName>Abaco_Beach_Resort_Boat_Harbour</HotelFileName>
+    <HotelID>1040892</HotelID>
+    <HotelName>Abaco Beach Resort &amp; Boat Harbour</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>412989228</ImageID>
+    <Images>412989228|412989229|356349297|412989232|356349302|412989235|412989240|412989243|412989251|412989256</Images>
+    <Latitude>26.545326000000</Latitude>
+    <Longitude>-77.048860000000</Longitude>
+    <MinRate>351.0801</MinRate>
+    <PlaceFileName>Marsh_Harbour</PlaceFileName>
+    <PlaceID>16150</PlaceID>
+    <PlaceName>Marsh Harbour</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>167235</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>7</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|13|14</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>2|6|14|17|18|19|22|29|31|34|47|49|51|53|56|60|136|154|191|202|253|281</Facilities>
+    <HotelAddress>43-45 Market Street</HotelAddress>
+    <HotelFileName>Aberdeen_Douglas_Hotel</HotelFileName>
+    <HotelID>1040894</HotelID>
+    <HotelName>Aberdeen Douglas Hotel</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>616810852</ImageID>
+    <Images>616810852|553053280|553053279|553053285|595377010|595376988|595376989|595377006|595377007|595376992|595377003|595376994|595376996|595376998|595376999|595377009|607844961|553053267|616810846|616810847|553053270|616810848|553053284|616810849|553053273|616810850|553053282|553053274|553053271|616810851|553053286|553053278|553053251|553053269|616810853|553053266|553053262|553053263|616810854|616810855|553053252|553053275|616810856|616810857|616810858|616810859|553053255|616810860|566073127|607844960|616810861|553053254|605446272|553053253|595377011|553053268|616810862|553053283|553053272|616810863</Images>
+    <Latitude>57.146203000000</Latitude>
+    <Longitude>-2.095948000000</Longitude>
+    <MinRate>77.1463</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>14415</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|6|7|13|16</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>2228</ChainID>
+    <ChainName>OYO</ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>17|18|22|60|136|202|253|255|299</Facilities>
+    <HotelAddress>1 Great Northern Road</HotelAddress>
+    <HotelFileName>Northern_Hotel_Aberdeen</HotelFileName>
+    <HotelID>1040896</HotelID>
+    <HotelName>Northern Hotel Aberdeen</HotelName>
+    <HotelPostcode>AB24 3PS</HotelPostcode>
+    <ImageID>578360082</ImageID>
+    <Images>578360082|578360086|578360088|578360089|578360090|578360091|578360092|578360093|578360094|578360095|578360096|578360097|578360098|578360099|578360100|578360101|581290172|581290173|581290174|581290175</Images>
+    <Latitude>57.162212500000</Latitude>
+    <Longitude>-2.116486100000</Longitude>
+    <MinRate>55.3180</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>199572</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>6</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>197</ChainID>
+    <ChainName>Copthorne Hotels</ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>2|8|11|17|18|19|22|34|41|47|49|51|53|56|136|139|202|243|253|270|299</Facilities>
+    <HotelAddress>122 Huntly Street</HotelAddress>
+    <HotelFileName>Copthorne_Hotel_Aberdeen</HotelFileName>
+    <HotelID>1040900</HotelID>
+    <HotelName>Copthorne Hotel Aberdeen</HotelName>
+    <HotelPostcode>AB10 1SU</HotelPostcode>
+    <ImageID>598012401</ImageID>
+    <Images>598012401|603229815|534706763|603229101|603229102|603229103|603229104|534706761|543541510|534706770|598012403|598012409|603229105|603229106|603229107|603229108|603229109|603229110|603229111|598012402|598012404|598012405|598012406|598012407|598012408|543541509|598012410|543541512|543541513|598012411|543541506|543541508|534706774|534706775</Images>
+    <Latitude>57.146184400000</Latitude>
+    <Longitude>-2.112113000000</Longitude>
+    <MinRate>61.5566</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>22637</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>16</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>2</ChainID>
+    <ChainName>Best Western</ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>39|53|202|210|211|212|253|299</Facilities>
+    <HotelAddress>Stirling Street</HotelAddress>
+    <HotelFileName>Carmelite_Hotel_BW_Signature_Collection</HotelFileName>
+    <HotelID>1040903</HotelID>
+    <HotelName>Carmelite Hotel BW Signature Collection</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>602460088</ImageID>
+    <Images>602460088|602460089|602460090|602460091|602460092|602460093|602460094|602460095|602460096|602460097|602460098|602460099|602460100|602460101|602460102|602460103|602460104|602460105|602460106|602460107|602460108|602460109|602460110|602460111</Images>
+    <Latitude>57.145914000000</Latitude>
+    <Longitude>-2.097550000000</Longitude>
+    <MinRate>55.0759</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>34401</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|6|7|10|17</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>466</ChainID>
+    <ChainName>Marriott Hotels &amp; Resorts</ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>1|2|3|4|5|6|7|15|17|19|20|21|30|31|33|34|35|41|46|49|51|53|56|60|136|141|202|209|221|240|243|255|259|270</Facilities>
+    <HotelAddress>Overton Circle-Dyce</HotelAddress>
+    <HotelFileName>Aberdeen_Marriott_Hotel</HotelFileName>
+    <HotelID>1040906</HotelID>
+    <HotelName>Aberdeen Marriott Hotel</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>609618234</ImageID>
+    <Images>609618234|609618216|609618217|609618218|609618219|609618220|609618221|609618215|609618222|609618223|609618224|609618225|609618226|609618227|609618228|609618229|609618230|609618231|609618232|609618233</Images>
+    <Latitude>57.199874900000</Latitude>
+    <Longitude>-2.183626900000</Longitude>
+    <MinRate>85.7643</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>55001</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>8|10</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>11|14|17|20|34|56|60|191|209|210|211</Facilities>
+    <HotelAddress>59-63 Queens Road</HotelAddress>
+    <HotelFileName>The_Chester_Hotel</HotelFileName>
+    <HotelID>1040908</HotelID>
+    <HotelName>The Chester Hotel</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>608636673</ImageID>
+    <Images>608636673|608636674|608636675|608636676|608636677|608636678|608636679|608636680|608636681|608636682|608636683|608636684|608636685|608636686</Images>
+    <Latitude>57.141101800000</Latitude>
+    <Longitude>-2.137200100000</Longitude>
+    <MinRate>115.5051</MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>1286301</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>13</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>14|15|22|34|40|47|49|50|51|52|53|56|136|191|202|209|230|281|298</Facilities>
+    <HotelAddress>6 Union Grove</HotelAddress>
+    <HotelFileName>Skene_House_Hotels_Holburn</HotelFileName>
+    <HotelID>1040909</HotelID>
+    <HotelName>Skene House Hotels - Holburn</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>583112460</ImageID>
+    <Images>583112460|583112429|583112454|583112446|583112439|583112437|598366317|583112453|583112458|583112444|583112450|583112443|598366319|583112455|583112461|583112447|583112434|583112436|583112433|583112456|583112457|583112462|583112430|583112463|583112448|583112459|583112449|583112445|583112438|598366318|583112432|583112451|583112440|583112431|583112435</Images>
+    <Latitude>57.140422800000</Latitude>
+    <Longitude>-2.121098000000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>51009</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>33</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>5|6|7|13</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>GB</CountryCode>
+    <CountryFileName>United_Kingdom</CountryFileName>
+    <CountryName>United Kingdom</CountryName>
+    <CurrencyCode>GBP</CurrencyCode>
+    <Facilities>2|6|14|18|19|20|22|30|34|47|49|53|60|136|191|202|210|211|230|232|255|281</Facilities>
+    <HotelAddress>96 Rosemount Viaduct</HotelAddress>
+    <HotelFileName>Skene_House_Hotels_Rosemount</HotelFileName>
+    <HotelID>1040910</HotelID>
+    <HotelName>Skene House Hotels - Rosemount</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>552674483</ImageID>
+    <Images>552674483|602416935|597069684|552674444|597069714|597069688|597069709|597069707|597069702|597069712|597069696|616779602|616779603|597069692|602416936|597069705|597069700|597069697|597069710|597069713|597069703|597069686|552674472|552674462|597069711|597069691|552674465|597069685|597069693|597069687|597069695|597069715|597069690|597069704|597069706|597069699|597069708|552674421|597069689|616779604|602416937|597069698|602416938|597069701</Images>
+    <Latitude>57.148922000000</Latitude>
+    <Longitude>-2.109872100000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Aberdeen</PlaceFileName>
+    <PlaceID>129745</PlaceID>
+    <PlaceName>Aberdeen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>18118</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>33</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|5|6|7|9|13</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>7|14|17|30|34|35|117|191|193|198|199|202|243|253|270</Facilities>
+    <HotelAddress>Adenauerallee 209</HotelAddress>
+    <HotelFileName>Art_Hotel_Aachen</HotelFileName>
+    <HotelID>1040847</HotelID>
+    <HotelName>Art Hotel Aachen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>598786704</ImageID>
+    <Images>598786704|598786705|368422356|368422359|368422358|368422355|368422360|368422370|368422364|368422373|368422375|368422376|368422377|368422378|368422379|368422357|368422361|368422368|368422372|598786706|368422367|368422362|368422369|368422363|368422371|368422365|368422354|368422366|368422374|368422380</Images>
+    <Latitude>50.754561000000</Latitude>
+    <Longitude>6.103624000000</Longitude>
+    <MinRate>56.6137</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>31438</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>13|14</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>351</ChainID>
+    <ChainName>Ibis</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|8|10|15|17|18|21|30|35|41|47|49|53|56|60|136|181|202|209|210|211|212|243|253</Facilities>
+    <HotelAddress>Zollernstrasse 2</HotelAddress>
+    <HotelFileName>Ibis_Aachen_Hauptbahnhof</HotelFileName>
+    <HotelID>1040848</HotelID>
+    <HotelName>Ibis Aachen Hauptbahnhof</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>598027009</ImageID>
+    <Images>598027009|598027008|595111252|595111253|595111254|598027010|595111251|543961358|595111250|598027011|598027012|595111261|598027013|595111255|547300085|595111262|595111263|595111256|595111264|598027014|547300077|547300078|595111257|595111258|595111265|595111259|595111266|547300083|595111267|595111260|595111268|595111269|595111270|595111271|598027015|598027016|598027017|598027018|595111272|543961361|595111273|547300087|598027019|547300088|547300089|543961363|543961360|547300090|595111274|595111275</Images>
+    <Latitude>50.769268000000</Latitude>
+    <Longitude>6.095584000000</Longitude>
+    <MinRate>59.2077</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>25698</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>2</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|5|7|9|11|13|17|19|22|30|35|39|40|53|60|136|141|193|202|243|254</Facilities>
+    <HotelAddress>Am Branderhof 101</HotelAddress>
+    <HotelFileName>Art_Hotel_Superior</HotelFileName>
+    <HotelID>1040849</HotelID>
+    <HotelName>Art Hotel Superior</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>609729992</ImageID>
+    <Images>609729992|609729924|609729925|609729926|609729927|609729928|609729929|609729930|609729931|609729932|609729933|609729934|609729935|609729936|609729937|609729938|609729939|609729940|609729941|609729942|609729943|609729944|609729945|609729946|609729947|609729948|609729949|609729950|609729951|609729952|609729953|609729954|609729955|609729956|609729957|609729958|609729959|609729960|609729961|609729962|609729963|609729964|609729965|609729966|609729967|609729968|609729969|609729970|609729971|609729972|609729973|609729974|609729975|609729976|609729977|609729978|609729979|609729980|609729981|609729982|609729983|609729984|609729985|609729986|609729987|609729988|609729989|609729990|609729991|609729993|609729994|609729995|609729996|609729997</Images>
+    <Latitude>50.759538000000</Latitude>
+    <Longitude>6.105659000000</Longitude>
+    <MinRate>59.3096</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>18722</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>8|9|10|12|13|14</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>5|7|13|14|17|18|30|35|56|60|64|117|141|191|240|243|256|270|278</Facilities>
+    <HotelAddress>Adele Weidtman Strasse 87-93</HotelAddress>
+    <HotelFileName>Hotel_Rosenpark_Laurensberg</HotelFileName>
+    <HotelID>1040850</HotelID>
+    <HotelName>Hotel Rosenpark Laurensberg</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368422466</ImageID>
+    <Images>368422466|368422475|368422485|368422471|368422477|368422476|368422470|368422469|368422467|368422481|368422472|368422486|368422484|368422474|368422483|368422473|368422482|368422468</Images>
+    <Latitude>50.800734000000</Latitude>
+    <Longitude>6.065533000000</Longitude>
+    <MinRate>75.4849</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>82368</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>13|14|17</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>17|22|39|53|56|60|62|139|202|209|210|211|212|299</Facilities>
+    <HotelAddress>Passstrasse 2a</HotelAddress>
+    <HotelFileName>Hotel_Granus</HotelFileName>
+    <HotelID>1040851</HotelID>
+    <HotelName>Hotel Granus</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368422730</ImageID>
+    <Images>368422730|368422731|368422732|368422716|368422728|368422715|368422725|368422724|368422714|368422717|368425674|368425673|368422726|368422727|368422720|368422722|368422723|368422721|368422713|368422729|368425672|368425675|368425676</Images>
+    <Latitude>50.779264000000</Latitude>
+    <Longitude>6.098405000000</Longitude>
+    <MinRate>94.6750</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>73001</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7|14</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>17|53|202|255|259|270|299</Facilities>
+    <HotelAddress>Friedlandstrasse 20</HotelAddress>
+    <HotelFileName>Bestprice_Hotel_Aachen_City</HotelFileName>
+    <HotelID>1040852</HotelID>
+    <HotelName>Bestprice Hotel Aachen City</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>589088733</ImageID>
+    <Images>589088733|589088734|589088735|589088736|589088737|589088738|589088739|589088740|589088741|589088742|589088743|589088744|589088745|589088746</Images>
+    <Latitude>50.767363000000</Latitude>
+    <Longitude>6.086764000000</Longitude>
+    <MinRate>51.2339</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>435708</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>3|5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|4|5|6|7|8|13|15|17|18|19|21|22|31|33|34|39|49|53|56|139|141|193|202|203|210|211|221|253|270|299</Facilities>
+    <HotelAddress>Monheimsallee 52</HotelAddress>
+    <HotelFileName>Parkhotel_Quellenhof_Aachen</HotelFileName>
+    <HotelID>1040853</HotelID>
+    <HotelName>Parkhotel Quellenhof Aachen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>592619143</ImageID>
+    <Images>592619143|592619144|592619145|592619146|592619147|592619148|592619149|592619150|592619151|592619152|592619153|592619154|592619155|592619156|592619157|592619158|592619159</Images>
+    <Latitude>50.781453700000</Latitude>
+    <Longitude>6.090672100000</Longitude>
+    <MinRate>167.1571</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>19342</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>5</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>2|5|6|7|8|10|12|14|17</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|5|17|34|39|40|53|56|66|202|209|299</Facilities>
+    <HotelAddress>Turmstrasse 174</HotelAddress>
+    <HotelFileName>Hotel_Baccara</HotelFileName>
+    <HotelID>1040854</HotelID>
+    <HotelName>Hotel Baccara</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>616693328</ImageID>
+    <Images>616693328|616693327|616693329|616693330|616693331|602392877|616693332|616693333|602392873|616693334|616693335|616693336|616693337|616693338|616693339|616693340|616693341|616693342|602392876|616693343|616693344|616693345|616693346|616693347|616693348|602392875|602392874|616693349</Images>
+    <Latitude>50.776710000000</Latitude>
+    <Longitude>6.072901000000</Longitude>
+    <MinRate>80.2896</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>252403</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>5|6|34|49|66|104|139|278</Facilities>
+    <HotelAddress>Raafstrasse 76-80</HotelAddress>
+    <HotelFileName>Hotel_Zur_Heide</HotelFileName>
+    <HotelID>1040855</HotelID>
+    <HotelName>Hotel Zur Heide</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>297742096</ImageID>
+    <Images>297742096|297742064|297742065|297742066|297742067|297742068|297742069|297742070|297742071|297742072|297742073|297742074|297742075|297742076|297742077|297742078|297742079|297742080|297742081|297742082|297742083|297742084|297742085|297742086|297742087|297742088|297742089|297742090|297742091|297742092|297742093|297742094|297742095|297742097|297742098</Images>
+    <Latitude>50.715484000000</Latitude>
+    <Longitude>6.131145000000</Longitude>
+    <MinRate>88.6648</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>144854</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>16</PropertyTypeID>
+    <StarRating>1</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>7|15</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>2</ChainID>
+    <ChainName>Best Western</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|8|11|17|20|21|31|34|39|41|43|47|49|51|53|56|57|64|136|253|257|258|270|298</Facilities>
+    <HotelAddress>Jülicher Strasse 1</HotelAddress>
+    <HotelFileName>Best_Western_Hotel_Royal_Aachen</HotelFileName>
+    <HotelID>1040863</HotelID>
+    <HotelName>Best Western Hotel Royal Aachen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368423059</ImageID>
+    <Images>368423059|368423064|368423073|368423068|368423066|368423077|368423075|368423063|368423083|368423088|368423092|368423069|368423062|368423084|368423086|368423078|368423090|368423067|368423091|368423070|368423072|368423065|368423061|368423060|368423079|368423076|368423074|368423071|368423080|368423081|368423082|368423085|368423087|368423089|368423093|368423094|384906369</Images>
+    <Latitude>50.778519000000</Latitude>
+    <Longitude>6.095237000000</Longitude>
+    <MinRate>129.8625</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>118203</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|3|4|5|18|19|22|30|31|33|41|49|53|56|60|66|117|136|141|202|209|243|254|255|270|278|281</Facilities>
+    <HotelAddress>Stuttgarter Strasse 45-47</HotelAddress>
+    <HotelFileName>City_Hotel_Antik</HotelFileName>
+    <HotelID>1040870</HotelID>
+    <HotelName>City Hotel Antik</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>384592978</ImageID>
+    <Images>384592978|384592979|384592980|384592981|384592982|384592983|384592984|384592985|384592986|384592987|384592988|384592989|384592993|384592994|384592990|384592995|384592992</Images>
+    <Latitude>48.834621400000</Latitude>
+    <Longitude>10.091509800000</Longitude>
+    <MinRate>95.1142</MinRate>
+    <PlaceFileName>Aalen</PlaceFileName>
+    <PlaceID>145659</PlaceID>
+    <PlaceName>Aalen</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>165414</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>Baden-Wurttemberg</StateName>
+    <StatePlacefilename>Baden_Wurttemberg</StatePlacefilename>
+    <StatePlaceID>1447</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>BS</CountryCode>
+    <CountryFileName>Bahamas</CountryFileName>
+    <CountryName>The Bahamas</CountryName>
+    <CurrencyCode>BSD</CurrencyCode>
+    <Facilities>7|13|20|23|40|41|52|56|82|96|100|189|202|210|211|212|242|281|299</Facilities>
+    <HotelAddress>PO Box 22275</HotelAddress>
+    <HotelFileName>Bahama_Beach_Club_Resort</HotelFileName>
+    <HotelID>1040887</HotelID>
+    <HotelName>Bahama Beach Club Resort</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>138325426</ImageID>
+    <Images>138325426|138325381|138325383|138325387|138325390|138325391|138325396|138325397|138325399|138325402|138325404|138325409|138325411|138325414|138325416|138325418|138325420</Images>
+    <Latitude>26.675938800000</Latitude>
+    <Longitude>-77.276245500000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Green_Turtle_Cay</PlaceFileName>
+    <PlaceID>249026</PlaceID>
+    <PlaceName>Green Turtle Cay</PlaceName>
+    <PlaceType>Island</PlaceType>
+    <Popularity>215591</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>7</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes></Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>BS</CountryCode>
+    <CountryFileName>Bahamas</CountryFileName>
+    <CountryName>The Bahamas</CountryName>
+    <CurrencyCode>BSD</CurrencyCode>
+    <Facilities>5|7|11|13|15|21|22|34|46|47|51|64|74|96|100|141|202|222|255|257|281|299</Facilities>
+    <HotelAddress>Green Turtle Cay</HotelAddress>
+    <HotelFileName>Green_Turtle_Club_Resort_Marina</HotelFileName>
+    <HotelID>1040889</HotelID>
+    <HotelName>Green Turtle Club Resort &amp; Marina</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>611805532</ImageID>
+    <Images>611805532|611805405|611805406|611805407|611805408|611805409|611805512|611805513|611805514|611805515|611805516|611805517|611805518|611805519|611805520|611805521|611805522|611805523|611805524|611805525|611805526|611805527|611805528|611805529|611805530|611805531|611805533|611805534|611805535|611805536|611805537|611805538|611805539|611805540|611805541|611805542|611805543|611805544|611805545|611805546|611805547|611805548|611805549|611805550|611805551|611805552|553346272|553346276|553346266|553346286|553346278|553346253|553346284|553346259|553346296|553346279|553346274|553346256|553346264|553346258|553346265|553346289|553346277|553346273|553346287|553346260|553346262|553346288|553346271|553346285|553346257|553346267|553346297|553346283|553346270|553346294|553346255|553346263|553346295|553346269|553346261|553346290|553346293|553346291|553346275|553346280|553346254|553346281|553346292|553346282|553346268|553346252</Images>
+    <Latitude>26.781993400000</Latitude>
+    <Longitude>-77.335940200000</Longitude>
+    <MinRate>328.4676</MinRate>
+    <PlaceFileName>Green_Turtle_Cay</PlaceFileName>
+    <PlaceID>249026</PlaceID>
+    <PlaceName>Green Turtle Cay</PlaceName>
+    <PlaceType>Island</PlaceType>
+    <Popularity>257992</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>7</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>10|17</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|3|4|5|7|11|13|17|18|19|20|21|22|30|33|34|39|40|49|53|56|60|104|136|141|189|202|229|240|243|255|281</Facilities>
+    <HotelAddress>Avenida Fernández Latorre 45</HotelAddress>
+    <HotelFileName>Hotel_Plaza_A_Coruna</HotelFileName>
+    <HotelID>1040825</HotelID>
+    <HotelName>Hotel Plaza A Coruna</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>595208290</ImageID>
+    <Images>595208290|552712634|601001951|601001934|595208284|601001949|601001930|601001938|601001924|601001942|601001953|601001925|601001926|598531234|601001944|601001927|552712654|598531235|604325776|601001931|601001937|601001935|601001945|601001956|601001940|601001948|601001921|601001928|601001941|601001952|601001939|601001947|601001922|601001932|601001943|601001929|601001936|552712632|601001919|552712655|601001933|617038777|601001950|601001946|595208283|601001954|601001923|601001920</Images>
+    <Latitude>43.356142000000</Latitude>
+    <Longitude>-8.404471000000</Longitude>
+    <MinRate>58.4828</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>24842</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|5|10|12</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>17|22|34|56|202|270|299</Facilities>
+    <HotelAddress>Saarstrasse 108</HotelAddress>
+    <HotelFileName>Hotel_Lousberg</HotelFileName>
+    <HotelID>1040834</HotelID>
+    <HotelName>Hotel Lousberg</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>581486864</ImageID>
+    <Images>581486864|581486853|581486832|581486863|581486866|598916149|598916146|581486849|598916151|581486865|598916150|598916143|581486854|581486824|598916147|581486852|581486847|581486860|581486862|581486855|598916148|581486851|581486861|581486826|598916145|598916142|581486830|598916144|598916141|581486831|581486825|581486850|581486829</Images>
+    <Latitude>50.781928000000</Latitude>
+    <Longitude>6.088150000000</Longitude>
+    <MinRate>83.8721</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>153888</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>407</ChainID>
+    <ChainName>Mercure</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|3|5|7|8|17|18|19|20|21|31|34|35|39|40|41|45|47|49|51|53|56|104|117|136|141|189|202|210|211|212|221|222|243|253|255|259|270</Facilities>
+    <HotelAddress>Joseph Von Goerres Strasse 27</HotelAddress>
+    <HotelFileName>Mercure_Aachen_Europaplatz</HotelFileName>
+    <HotelID>1040835</HotelID>
+    <HotelName>Mercure Aachen Europaplatz</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>594514771</ImageID>
+    <Images>594514771|594514772|594514764|594514773|594514763|594514774|594514775|594514776|594514777</Images>
+    <Latitude>50.781330100000</Latitude>
+    <Longitude>6.107090000000</Longitude>
+    <MinRate>70.4706</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>58412</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>2|13|14</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>17|47|53|56|117|136|202|210|211|255|259|270|278|299</Facilities>
+    <HotelAddress>Seilgraben 2</HotelAddress>
+    <HotelFileName>Minx_CityHotels</HotelFileName>
+    <HotelID>1040836</HotelID>
+    <HotelName>Minx - CityHotels</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>553223169</ImageID>
+    <Images>553223169|553223150|553223156|553223154|553223147|553223161|553223166|553223146|553223162|553223157|553223151|553223155|553223165|553223152|553223160|553223159|553223149|553223148|553223153|553223158|553223164|553223145|553223168|553223163|553223167</Images>
+    <Latitude>50.778041000000</Latitude>
+    <Longitude>6.088062000000</Longitude>
+    <MinRate>75.0056</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>159228</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>2</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>406</ChainID>
+    <ChainName>Novotel</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|4|5|8|9|13|17|19|21|31|33|39|41|45|47|51|53|56|136|141|194|202|209|210|211|212|243|270</Facilities>
+    <HotelAddress>Peterstrasse 66</HotelAddress>
+    <HotelFileName>Novotel_Aachen_City</HotelFileName>
+    <HotelID>1040837</HotelID>
+    <HotelName>Novotel Aachen City</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>589089792</ImageID>
+    <Images>589089792|589089793|589089794|589089795|589089796|589089797|589089798|589089799|589089800|589089801|589089802|589089803|589089804|589089805|589089806|589089807|589089808|589089809|589089810|589089811|589089812|589089813|589089814|589089815|589089816|589089817|589089818</Images>
+    <Latitude>50.777684000000</Latitude>
+    <Longitude>6.092076000000</Longitude>
+    <MinRate>101.2456</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>15852</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>88</ChainID>
+    <ChainName>TOP Hotels</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>3|4|7|17|18|22|23|30|31|35|53|66|102|103|107|117|193|202|210|211|221|243|253|254|264</Facilities>
+    <HotelAddress>Adenauerallee 215</HotelAddress>
+    <HotelFileName>TOP_Hotel_Buschhausen</HotelFileName>
+    <HotelID>1040838</HotelID>
+    <HotelName>TOP Hotel Buschhausen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>604208887</ImageID>
+    <Images>604208887|581619765|581619751|581619757|581619752|604208884|581619749|604208868|604208858|604208860|604208878|604208859|604208865|581619764|581619761|604208861|604208862|604208871|604208873|581619753|581619763|604208877|604208879|604208875|604208885|581619750|604208886|604208883|616706884|604208866|604208881|604208870|616706885|616706886|604208864|604208872|604208874|604208882|581619768|604208869|604208876|616706887|604208867|604208863</Images>
+    <Latitude>50.754094000000</Latitude>
+    <Longitude>6.103221000000</Longitude>
+    <MinRate>43.1342</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>119353</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes></Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|5|7|8|49|53|66|117|202|210|211|299</Facilities>
+    <HotelAddress>Schleidener Strasse 132</HotelAddress>
+    <HotelFileName>Brunnenhof_Aachen</HotelFileName>
+    <HotelID>1040839</HotelID>
+    <HotelName>Brunnenhof Aachen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368421467</ImageID>
+    <Images>368421467|368421466|368421468|368421469|368421470|368421471|368421472|368421464|368421473|368421474|368421475|368421476|368421477|368421463|368421462|368421465</Images>
+    <Latitude>50.707602500000</Latitude>
+    <Longitude>6.182737900000</Longitude>
+    <MinRate>65.8995</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>204222</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>9|13|17|18|20|22|30|33|39|47|53|56|60|62|117|136|141|202|243|253|259|264|270|278|299</Facilities>
+    <HotelAddress>Juelicher Strasse 91A</HotelAddress>
+    <HotelFileName>Hotel_Krone_Aachen_City_Eurogress</HotelFileName>
+    <HotelID>1040840</HotelID>
+    <HotelName>Hotel Krone Aachen City Eurogress</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>552678904</ImageID>
+    <Images>552678904|552678865|552678882|552678851|552678902|552678908|552678894|552678885|552678863|552678899|552678868|552678855|552678906|552678860|600910682|552678898|552678896|552678848|552678905|552678846|552678907|552678901|552678858|552678854|552678847|552678845|552678895|552678888|552678850|552678872|552678897|552678893|552678890|552678903|552678859|552678877|600910679|552678879|552678887|552678881|552678870|552678900|552678864|600910681|552678874|552678873|552678849|552678869|552678856|552678884|552678867|552678876|552678862|552678892|552678891|552678889|552678875|552678852|552678866|552678853|552678886|552678883|552678878|552678857</Images>
+    <Latitude>50.780331000000</Latitude>
+    <Longitude>6.100893000000</Longitude>
+    <MinRate>39.9231</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>42986</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>407</ChainID>
+    <ChainName>Mercure</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|7|8|10|13|15|17|18|19|20|21|22|31|33|35|38|41|45|46|47|53|56|64|98|99|107|136|141|181|185|202|209|222|223|257|259</Facilities>
+    <HotelAddress>Peterstrasse 1</HotelAddress>
+    <HotelFileName>Mercure_Hotel_Aachen_Am_Dom</HotelFileName>
+    <HotelID>1040841</HotelID>
+    <HotelName>Mercure Hotel Aachen Am Dom</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>598036289</ImageID>
+    <Images>598036289|598036290|598036291|598036292|598036293|598036294|598036295|517031451|517031453|517031454|517031455|598036296|598036297|598036298|598036299|598036300|598036301|517031456</Images>
+    <Latitude>50.775225000000</Latitude>
+    <Longitude>6.088152000000</Longitude>
+    <MinRate>69.4781</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>15358</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7|13|14</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>2017</ChainID>
+    <ChainName>Leonardo</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>3|5|13|15|17|21|22|39|49|53|136|202|243|259|264</Facilities>
+    <HotelAddress>Krefelder Strasse 221</HotelAddress>
+    <HotelFileName>Leonardo_Hotel_Aachen</HotelFileName>
+    <HotelID>1040842</HotelID>
+    <HotelName>Leonardo Hotel Aachen</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>609584985</ImageID>
+    <Images>609584985|609584953|609584954|609584955|609584956|609584957|609584958|609584959|609584960|609584961|609584962|609584963|609584964|609584965|609584966|609584967|609584968|609584969|609584970|609584971|609584972|609584973|609584974|609584975|609584976|609584977|609584978|609584979|609584980|609584981|609584982|609584983|609584984|609584986|609584987|609584988|609584989|609584990|609584991|609584992|609584993|609584994|609584995|609584996</Images>
+    <Latitude>50.796146000000</Latitude>
+    <Longitude>6.102532000000</Longitude>
+    <MinRate>65.9503</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>28463</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes></Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>454</ChainID>
+    <ChainName>Ibis Styles </ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>6|8|17|21|22|41|45|47|49|53|56|202|253|259|270|299</Facilities>
+    <HotelAddress>Juelicher Strasse 10-12</HotelAddress>
+    <HotelFileName>Ibis_Styles_Hotel_Aachen_City</HotelFileName>
+    <HotelID>1040843</HotelID>
+    <HotelName>Ibis Styles Hotel Aachen City</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>598290493</ImageID>
+    <Images>598290493|581391282|581391258|581391286|581391257|581391285|581391251|581391256|581391252|581391262|581391271|581391283|581391270|585313612|585313615|585313618|585313616|585313613|589209419|589209418|589209420|598290523|598290511|598290522|598290499|598290506|598290500|598290498|598290513|598290501|598290508|598290497|598290495|598290507|598290514|598290503|598290512|598290504|598290509|598290496|598290494|598290502|607864411|607864409|607864412|607864410</Images>
+    <Latitude>50.778504000000</Latitude>
+    <Longitude>6.096039000000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>9289</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>2</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>2|6|17</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>8|9|11|17|19|20|30|47|53|56|60|136|139|209|253|270|278</Facilities>
+    <HotelAddress>Büchel 32 / Buchkremerstrasse</HotelAddress>
+    <HotelFileName>Aquis_Grana_City_Hotel</HotelFileName>
+    <HotelID>1040844</HotelID>
+    <HotelName>Aquis Grana City Hotel</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368422069</ImageID>
+    <Images>368422069|368422066|368422068|368422071|368422065|368422074|368422078|368422085|368422086|368422087|368422088|368422090|368422091|368422075|368422073|368422072|368422070|368422067|368422064|368422063|368422062|368422081|368422080|368422079|368422077|368422076|368422082|368422083|368422084|368422089|368422092</Images>
+    <Latitude>50.775659000000</Latitude>
+    <Longitude>6.086097000000</Longitude>
+    <MinRate>137.7899</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>25002</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>4|5|7|8|17|34|47|66|107|117|136|202|210|211|243|253|278|299</Facilities>
+    <HotelAddress>Franzstrasse 21-23</HotelAddress>
+    <HotelFileName>Hotel_Benelux</HotelFileName>
+    <HotelID>1040845</HotelID>
+    <HotelName>Hotel Benelux</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>368421900</ImageID>
+    <Images>368421900|368421902|368421927|368421928|368421908|368421896|368421915|368421914|368421926|368421909|368421912|368421907|368421913|368421906|368421910|368421899|368421903|368421901|368421898|368421904|368421905|368421925|368421930|368421922|368421923|368421924|368421921|368421929|368421920|368421911</Images>
+    <Latitude>50.771018000000</Latitude>
+    <Longitude>6.084843000000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>71729</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7|17</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>351</ChainID>
+    <ChainName>Ibis</ChainName>
+    <CountryCode>DE</CountryCode>
+    <CountryFileName>Germany</CountryFileName>
+    <CountryName>Germany</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|5|8|10|15|17|18|30|31|33|35|41|47|53|56|60|99|136|181|202|243|253|255|281</Facilities>
+    <HotelAddress>Friedland Strasse 6-8</HotelAddress>
+    <HotelFileName>Ibis_Aachen_Marschiertor_Aix_La_Chapelle</HotelFileName>
+    <HotelID>1040846</HotelID>
+    <HotelName>Ibis Aachen Marschiertor - Aix-La-Chapelle</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>598022301</ImageID>
+    <Images>598022301|598022302|598022303|598022304|690558082|691174432|594501700|594501697|594501692|594501703|594501696|594501699|594501691|691174433|594501698|594501705|594501695|594501706|594501707|690558080|690558081|691174430|691174431|598022305|691174435|598022306|594501708|594501701|594501709|594501694</Images>
+    <Latitude>50.767799400000</Latitude>
+    <Longitude>6.085800200000</Longitude>
+    <MinRate>62.8801</MinRate>
+    <PlaceFileName>Aachen</PlaceFileName>
+    <PlaceID>22898</PlaceID>
+    <PlaceName>Aachen</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>28034</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>2</StarRating>
+    <StateName>North Rhine-Westphalia</StateName>
+    <StatePlacefilename>North_Rhine_Westphalia</StatePlacefilename>
+    <StatePlaceID>125873</StatePlaceID>
+    <Themes>5|6|7</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|5|10|13|17|18|19|20|22|39|49|53|60|136|141|181|253</Facilities>
+    <HotelAddress>Avda. Pedro Barrie de la Maza, 29</HotelAddress>
+    <HotelFileName>Hotel_Riazor_A_Coruna</HotelFileName>
+    <HotelID>1040796</HotelID>
+    <HotelName>Hotel Riazor A Coruna</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>556133723</ImageID>
+    <Images>556133723|597114164|597114165|597114166|597114167|597114168|556133710|556133689|598370867|556133692|556133720|556133718|556133697|616780963|556133684|556133708|556133712|616780964|598370847|556133706|556133721|598370856|598370852|556133698|556133686|556133725|556133724|556133707|598370860|598370858|598370866|556133683|556133696|616780965|556133688|556133682|556133726|616780966|598370849|598370894|556133705|598370854|556133704|598370893|616780967|598370862|556133709|598370892|556133722|598370864|556133711</Images>
+    <Latitude>43.368399400000</Latitude>
+    <Longitude>-8.408929300000</Longitude>
+    <MinRate>66.1152</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>14777</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|2|5|6|7</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>1341</ChainID>
+    <ChainName>Pousadas de Compostela</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>7|13|17|18|21|31|34|39|41|49|56|60|66|202|240|253</Facilities>
+    <HotelAddress>Piñon s/n 0</HotelAddress>
+    <HotelFileName>Hotel_Pazo_de_Lestrove</HotelFileName>
+    <HotelID>1040805</HotelID>
+    <HotelName>Hotel Pazo de Lestrove</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>286074393</ImageID>
+    <Images>286074393|286074370|286074371|286074372|286074373|286074374|286074375|286074376|286074377|286074378|286074379|286074380|286074381|286074382|286074383|286074384|286074385|286074386|286074387|286074388|286074389|286074390|286074391|286074392|286074394</Images>
+    <Latitude>42.731639900000</Latitude>
+    <Longitude>-8.670219400000</Longitude>
+    <MinRate></MinRate>
+    <PlaceFileName>Dodro</PlaceFileName>
+    <PlaceID>40199</PlaceID>
+    <PlaceName>Dodro</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>284426</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>26</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>7|8|14|15|16|18</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>1822</ChainID>
+    <ChainName>Hesperia</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|4|5|8|17|18|21|22|33|34|39|47|53|56|60|92|139|202|252|253</Facilities>
+    <HotelAddress>Juan Florez 16</HotelAddress>
+    <HotelFileName>Hesperia_A_Coruna_Centro</HotelFileName>
+    <HotelID>1040808</HotelID>
+    <HotelName>Hesperia A Coruna Centro</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>589708555</ImageID>
+    <Images>589708555|589708511|589708514|589708512|589708520|589708542|579890039|589708546|589708515|589708523|589708543|589708554|579890042|589708535|589708527|589708518|589708540|589708538|589708510|589708533|589708551|589708545|589708556|589708548|589708544|579890084|589708547|589708530|589708552|589708519|589708513|589708516|589708521|589708557|589708534|589708558|607745058|589708525|589708541|589708517|589708531|589708549|589708529|589708526|589708539|589708553|589708524|589708532|589708522|589708536|589708528|589708550|589708537</Images>
+    <Latitude>43.366169000000</Latitude>
+    <Longitude>-8.408539000000</Longitude>
+    <MinRate>81.7537</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>23845</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|2|5|6|10|12</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>13|33|40|52|56|98|99|202|210|211|229|299</Facilities>
+    <HotelAddress>Paseo Maritimo, s/n</HotelAddress>
+    <HotelFileName>Hotel_Alda_Sada_Marina</HotelFileName>
+    <HotelID>1040811</HotelID>
+    <HotelName>Hotel Alda Sada Marina</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>522650255</ImageID>
+    <Images>522650255|522650256|522650257|522650258|522650259|522650260|522650261|522650262|522650263|522650264|522650265|522650266</Images>
+    <Latitude>43.352589500000</Latitude>
+    <Longitude>-8.253879700000</Longitude>
+    <MinRate>42.1147</MinRate>
+    <PlaceFileName>Sada_Galicia</PlaceFileName>
+    <PlaceID>40268</PlaceID>
+    <PlaceName>Sada</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>623167</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>2</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|6|9</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>1820</ChainID>
+    <ChainName>NH Collection</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|4|5|6|7|12|14|17|18|19|20|21|22|23|33|34|35|40|47|49|56|60|62|66|92|95|104|139|189|191|202|220|223|253|264</Facilities>
+    <HotelAddress>Paseo del Parrote 2-4</HotelAddress>
+    <HotelFileName>NH_Collection_A_Coruna_Finisterre</HotelFileName>
+    <HotelID>1040813</HotelID>
+    <HotelName>NH Collection A Coruna Finisterre</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>609395899</ImageID>
+    <Images>609395899|609395889|609395890|609395891|609395892|609395893|609395894|609395895|609395896|609395897|609395898|609395900|609395901|609395902|609395903|609395904|609395905|609395906|609395907|609395908|609395909|609395910|609395911|609395912|609395913|609395914|609395915|609395916|609395917|609395918</Images>
+    <Latitude>43.369674000000</Latitude>
+    <Longitude>-8.394338000000</Longitude>
+    <MinRate>87.0952</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>19785</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>5</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>6|7|8|9|10|13|14</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>457</ChainID>
+    <ChainName>Meliá Hotels &amp; Resorts</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|5|6|11|12|13|17|21|22|34|35|39|41|45|47|49|53|56|60|62|96|136|141|202|209|210|211|212|214|243|255|264</Facilities>
+    <HotelAddress>Avenida Pedro Barrie De La Maza, 1</HotelAddress>
+    <HotelFileName>Melia_Maria_Pita</HotelFileName>
+    <HotelID>1040814</HotelID>
+    <HotelName>Melia Maria Pita</HotelName>
+    <HotelPostcode>15003</HotelPostcode>
+    <ImageID>583026753</ImageID>
+    <Images>583026753|583026814|583026797|583026795|583026794|583026773|583026779|583026799|583026767|583026774|583026763|583026770|583026765|583026759|583026785|583026802|583026809|583026775|583026806|583026788|583026780|583026808|583026754|583026798|583026760|583026812|583026768|583026810|583026756|583026803|583026783|583026805|583026784|583026758|583026801|583026793|583026813|583026761|583026789|583026777|583026757|583026762|583026782|583026786|583026778|583026807|583026776|583026772|583026781|583026766|583026790|583026771|583026787|583026804|583026764|583026791|583026755|583026811|583026800|583026769|583026796|583026792</Images>
+    <Latitude>43.375510000000</Latitude>
+    <Longitude>-8.403125000000</Longitude>
+    <MinRate>91.6156</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>9716</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>6|12</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>401</ChainID>
+    <ChainName>Zenit Hoteles</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>1|2|5|11|13|17|18|19|21|22|30|33|34|39|43|49|53|56|60|62|136|139|202|253|255|270|281</Facilities>
+    <HotelAddress>Comandante Fontanes 19</HotelAddress>
+    <HotelFileName>Zenit_Coruna</HotelFileName>
+    <HotelID>1040816</HotelID>
+    <HotelName>Zenit Coruna</HotelName>
+    <HotelPostcode>15003</HotelPostcode>
+    <ImageID>552904067</ImageID>
+    <Images>552904067|552904048|552904055|552904056|552904044|583223296|552904051|583223298|583223294|552904065|552904063|552904068|552904047|552904053|583223295|583223302|552904054|583223301|552904064|552904046|583223299|583223305|552904057|583223292|552904045|583223304|583223291|552904049|552904059|583223293|552904061|552904066|583223300|552904058|583223297|552904060|552904052|583223303|552904062|552904050</Images>
+    <Latitude>43.368910000000</Latitude>
+    <Longitude>-8.406723000000</Longitude>
+    <MinRate>61.0230</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>28043</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|5|6|7</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>398</ChainID>
+    <ChainName>Eurostars Hotels</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|4|11|13|17|18|19|20|21|22|33|34|39|53|56|62|136|139|141|202|253|299</Facilities>
+    <HotelAddress>Calle Juana De Vega 7</HotelAddress>
+    <HotelFileName>Eurostars_Blue_Coruna</HotelFileName>
+    <HotelID>1040818</HotelID>
+    <HotelName>Eurostars Blue Coruna</HotelName>
+    <HotelPostcode>15004</HotelPostcode>
+    <ImageID>232246918</ImageID>
+    <Images>232246918|232246919|595069400|595069401|232246920|595069402|232246900|232246903|232246915|595069403|232246908|232246907|232246911</Images>
+    <Latitude>43.366456500000</Latitude>
+    <Longitude>-8.405413100000</Longitude>
+    <MinRate>67.6968</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>11296</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>6</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID>398</ChainID>
+    <ChainName>Eurostars Hotels</ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|5|11|15|18|21|22|34|40|41|45|49|51|53|56|139|202|253|295|299</Facilities>
+    <HotelAddress>Avda. do Porto da Coruña 4</HotelAddress>
+    <HotelFileName>Eurostars_Atlantico</HotelFileName>
+    <HotelID>1040819</HotelID>
+    <HotelName>Eurostars Atlantico</HotelName>
+    <HotelPostcode>15006</HotelPostcode>
+    <ImageID>530844855</ImageID>
+    <Images>530844855|530931628|530844856|530931692|530931689|530931690|530931691|530931696|530931697|530931698|530931627|530931693|530931699|530931700|530931701|530931702|530931703|530931704|530931705|530931706|530931707|530931708|530931629|530844857|530931630|530931709|530931710|530931711|530931712|530931713|530844853|530844854|530931714|530687063|530931715|530931631|551032775|551032776|551032778|551032779|551032780|551032781|551032782|530931632|530687062|530931717|551032777|551032774</Images>
+    <Latitude>43.368282800000</Latitude>
+    <Longitude>-8.400819100000</Longitude>
+    <MinRate>64.3522</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>16274</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|7|8</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>3|13|17|21|30|34|39|45|47|53|117|136|141|210|211|212|253|255</Facilities>
+    <HotelAddress>Av Ernesto Che Guevara 81C</HotelAddress>
+    <HotelFileName>Hotel_El_Pescador_Oleiros</HotelFileName>
+    <HotelID>1040820</HotelID>
+    <HotelName>Hotel El Pescador Oleiros</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>388573943</ImageID>
+    <Images>388573943|388573975|388574015|388574030|388573958|388574049|388573961|388573883|388573894|388573983|388573896|388573952|388574003|388573904|388574019|388573864|388574062|388574043|388573970|388573913|388573994|388573989|388573868|388573930|388574059|388573885|388573872|388573965|388573907|388573927|388574008|388573890|388573917|388573939|388573979|388574024|388573875|388573934|388574034|388573900|388573947|388573922|388574070</Images>
+    <Latitude>43.337403000000</Latitude>
+    <Longitude>-8.373231000000</Longitude>
+    <MinRate>46.6492</MinRate>
+    <PlaceFileName>Oleiros</PlaceFileName>
+    <PlaceID>40198</PlaceID>
+    <PlaceName>Oleiros</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>119879</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>1</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>1|9</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>4|5|7|23|31|33|35|51|53|60|66|117|141|189|193|202|221|222|225|240|255</Facilities>
+    <HotelAddress>Pazo Do Rio 16</HotelAddress>
+    <HotelFileName>Hotel_Pazo_do_Rio</HotelFileName>
+    <HotelID>1040821</HotelID>
+    <HotelName>Hotel Pazo do Rio</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>620377408</ImageID>
+    <Images>620377408|620377389|620377390|620377391|620377392|620377393|620377394|620377395|620377396|620377397|620377398|620377399|620377400|620377401|620377402|620377403|620377404|620377405|620377406|620377409|620377410|620377411|620377412|620377413|620377414|620377415|620377416|620377417|620377418|620377419|620377420|620377421|620377422|620377423|620377424|620377425|620377426</Images>
+    <Latitude>43.330296000000</Latitude>
+    <Longitude>-8.357684000000</Longitude>
+    <MinRate>74.2847</MinRate>
+    <PlaceFileName>Oleiros</PlaceFileName>
+    <PlaceID>40198</PlaceID>
+    <PlaceName>Oleiros</PlaceName>
+    <PlaceType>Town</PlaceType>
+    <Popularity>212617</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>9</PropertyTypeID>
+    <StarRating>4</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>8|9|10|13|14|15|16|17|18</Themes>
+    <Trademarked>True</Trademarked>
+  </Hotel>
+  <Hotel>
+    <ChainID></ChainID>
+    <ChainName></ChainName>
+    <CountryCode>ES</CountryCode>
+    <CountryFileName>Spain</CountryFileName>
+    <CountryName>Spain</CountryName>
+    <CurrencyCode>EUR</CurrencyCode>
+    <Facilities>2|3|4|5|10|11|13|17|18|19|21|22|34|35|39|47|49|53|136|141|181|189|193|202|243|253|255</Facilities>
+    <HotelAddress>C/ Alvaro Cunqueiro 1</HotelAddress>
+    <HotelFileName>Hotel_Avenida_A_Coruna</HotelFileName>
+    <HotelID>1040823</HotelID>
+    <HotelName>Hotel Avenida A Coruna</HotelName>
+    <HotelPostcode></HotelPostcode>
+    <ImageID>115116191</ImageID>
+    <Images>115116191|115116038|115116045|115116049|115116056|115116061|115116065|115116071|115116079|115116083|115116090|115116098|115116104|115116109|115116114|115116118|115116125|115116129|115116132|115116135|115116137|115116141|115116147|115116152|115116155|115116159|115116164|115116166|115116169|115116172|115116177|115116180|115116183|115116186|115116190</Images>
+    <Latitude>43.347990000000</Latitude>
+    <Longitude>-8.408310000000</Longitude>
+    <MinRate>58.2737</MinRate>
+    <PlaceFileName>A_Coruna</PlaceFileName>
+    <PlaceID>154259</PlaceID>
+    <PlaceName>A Coruna</PlaceName>
+    <PlaceType>City</PlaceType>
+    <Popularity>40453</Popularity>
+    <PropertyType></PropertyType>
+    <PropertyTypeID>0</PropertyTypeID>
+    <StarRating>3</StarRating>
+    <StateName></StateName>
+    <StatePlacefilename></StatePlacefilename>
+    <StatePlaceID></StatePlaceID>
+    <Themes>2|3|6|9|12</Themes>
+    <Trademarked>False</Trademarked>
+  </Hotel>
+</Hotels>
